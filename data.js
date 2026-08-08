@@ -1,5 +1,5 @@
 // ข้อมูลการลาที่อัปเดตอัตโนมัติจากไฟล์ Excel
-const lastUpdated = "14 กรกฎาคม 2569 เวลา 13:53 น.";
+const lastUpdated = "8 สิงหาคม 2569 เวลา 09:09 น.";
 const leaveRecords = [
   {
     "timestamp": "2026-05-15T01:42:21.053Z",
@@ -9,8 +9,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2025-10-08",
-    "dateTo": "2025-10-08",
+    "dateFrom": "8/10/2025",
+    "dateTo": "8/10/2025",
     "days": 1,
     "remark": ""
   },
@@ -22,8 +22,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาพักผ่อน",
-    "dateFrom": "2025-10-17",
-    "dateTo": "2025-10-17",
+    "dateFrom": "17/10/2025",
+    "dateTo": "17/10/2025",
     "days": 1,
     "remark": ""
   },
@@ -35,8 +35,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2025-11-07",
-    "dateTo": "2025-11-07",
+    "dateFrom": "7/11/2025",
+    "dateTo": "7/11/2025",
     "days": 1,
     "remark": ""
   },
@@ -48,8 +48,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2025-12-04",
-    "dateTo": "2025-12-04",
+    "dateFrom": "4/12/2025",
+    "dateTo": "4/12/2025",
     "days": 1,
     "remark": ""
   },
@@ -61,8 +61,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-01-08",
-    "dateTo": "2026-01-08",
+    "dateFrom": "8/1/2026",
+    "dateTo": "8/1/2026",
     "days": 1,
     "remark": ""
   },
@@ -74,8 +74,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-02-05",
-    "dateTo": "2026-02-05",
+    "dateFrom": "5/2/2026",
+    "dateTo": "5/2/2026",
     "days": 1,
     "remark": ""
   },
@@ -87,8 +87,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาพักผ่อน",
-    "dateFrom": "2026-02-06",
-    "dateTo": "2026-02-07",
+    "dateFrom": "6/2/2026",
+    "dateTo": "7/2/2026",
     "days": 2,
     "remark": ""
   },
@@ -100,8 +100,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-03-13",
-    "dateTo": "2026-03-13",
+    "dateFrom": "13/3/2026",
+    "dateTo": "13/3/2026",
     "days": 1,
     "remark": ""
   },
@@ -113,8 +113,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-03-27",
-    "dateTo": "2026-03-27",
+    "dateFrom": "27/3/2026",
+    "dateTo": "27/3/2026",
     "days": 1,
     "remark": ""
   },
@@ -126,8 +126,8 @@ const leaveRecords = [
     "round": 1,
     "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2568 - 31 มี.ค. 2569)",
     "type": "ลาพักผ่อน",
-    "dateFrom": "2026-03-09",
-    "dateTo": "2026-03-09",
+    "dateFrom": "9/3/2026",
+    "dateTo": "9/3/2026",
     "days": 1,
     "remark": ""
   },
@@ -139,8 +139,8 @@ const leaveRecords = [
     "round": 2,
     "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-04-07",
-    "dateTo": "2026-04-08",
+    "dateFrom": "7/4/2026",
+    "dateTo": "8/4/2026",
     "days": 2,
     "remark": ""
   },
@@ -152,21 +152,60 @@ const leaveRecords = [
     "round": 2,
     "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-06-16",
-    "dateTo": "2026-06-16",
+    "dateFrom": "16/6/2026",
+    "dateTo": "16/6/2026",
     "days": 1,
     "remark": ""
   },
   {
-    "timestamp": "2026-07-06 10:46:25",
+    "timestamp": "6/7/2026 10:46",
     "name": "สัญญา แย้มเทศ",
     "position": "นักวิชาการสาธารณสุขชำนาญการ",
     "fiscalYear": 2569,
     "round": 2,
     "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
     "type": "ลาป่วย",
-    "dateFrom": "2026-07-06",
-    "dateTo": "2026-07-06",
+    "dateFrom": "6/7/2026",
+    "dateTo": "6/7/2026",
+    "days": 1,
+    "remark": ""
+  },
+  {
+    "timestamp": "28/7/2026 11:44",
+    "name": "สัญญา แย้มเทศ",
+    "position": "นักวิชาการสาธารณสุขชำนาญการ",
+    "fiscalYear": 2569,
+    "round": 2,
+    "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
+    "type": "ลาป่วย",
+    "dateFrom": "27/7/2026",
+    "dateTo": "27/7/2026",
+    "days": 1,
+    "remark": ""
+  },
+  {
+    "timestamp": "3/8/2026 4:58",
+    "name": "สัญญา แย้มเทศ",
+    "position": "นักวิชาการสาธารณสุขชำนาญการ",
+    "fiscalYear": 2569,
+    "round": 2,
+    "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
+    "type": "ลาป่วย",
+    "dateFrom": "31/7/2026",
+    "dateTo": "31/7/2026",
+    "days": 1,
+    "remark": ""
+  },
+  {
+    "timestamp": "7/8/2026 13:49",
+    "name": "สัญญา แย้มเทศ",
+    "position": "นักวิชาการสาธารณสุขชำนาญการ",
+    "fiscalYear": 2569,
+    "round": 2,
+    "roundDetail": "รอบ 2 ครึ่งปีหลัง (1 เม.ย. 2569 - 30 ก.ย. 2569)",
+    "type": "ลาพักผ่อน",
+    "dateFrom": "10/8/2026",
+    "dateTo": "10/8/2026",
     "days": 1,
     "remark": ""
   }
