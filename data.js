@@ -1,5 +1,5 @@
 // ข้อมูลการลาที่อัปเดตอัตโนมัติจากไฟล์ Excel
-const lastUpdated = "22 กันยายน 2569 เวลา 09:50 น.";
+const lastUpdated = "8 ตุลาคม 2569 เวลา 13:30 น.";
 const leaveRecords = [
   {
     "timestamp": "2026-05-15T01:42:21.053Z",
@@ -232,6 +232,19 @@ const leaveRecords = [
     "type": "ลาป่วย",
     "dateFrom": "2026-09-18",
     "dateTo": "2026-09-18",
+    "days": 1,
+    "remark": ""
+  },
+  {
+    "timestamp": "2026-09-30 09:19:10",
+    "name": "สัญญา แย้มเทศ",
+    "position": "นักวิชาการสาธารณสุขชำนาญการ",
+    "fiscalYear": 2570,
+    "round": 1,
+    "roundDetail": "รอบ 1 ครึ่งปีแรก (1 ต.ค. 2569 - 31 มี.ค. 2570)",
+    "type": "ลาป่วย",
+    "dateFrom": "2026-10-02",
+    "dateTo": "2026-10-02",
     "days": 1,
     "remark": ""
   }
